@@ -5,7 +5,7 @@ title: Kontakt
 
 ☎️ telefon: +48 509122806
 
-📧 email: praktyka@gabinetpsychiatra.pl - klucz pgp
+📧 email: praktyka@gabinetpsychiatra.pl - [klucz pgp](https://gabinetpsychiatra.pl/pgp)
 
 > Przed wizytą konieczna jest rejestracja telefoniczna 
 > (poniedziałki, środy, czwartki od 19:00 do 20:00)

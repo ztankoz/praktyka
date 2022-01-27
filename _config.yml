@@ -1,7 +1,6 @@
 name: Krzysztof Stańkowski
-description: >
-    Specjalistyczna Praktyka Psychiatryczna
-about: >
+description: Specjalistyczna Praktyka Psychiatryczna
+about: Gabinet lekarski
     
 
 master_repo: false
@@ -11,7 +10,7 @@ highlighter: rouge
 
 plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
 
-paginate: 4
+paginate: 5
 
 logo:             logo.png
 disqus_shortname:
@@ -19,7 +18,6 @@ disqus_shortname:
 rtl: false
 owner:
   name:           ztankoz
-  avatar:         "https://avatars1.githubusercontent.com/u/537678?s=240&v=4"
   email:          "praktyka@gabinetpsychiatra.pl"
   # Social networking links used in footer. Update and remove as you like.
   github: https://github.com/ztankoz

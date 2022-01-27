@@ -2,7 +2,6 @@
 layout: default
 title: O mnie
 ---
-## Krzysztof Stańkowski
 
 - ### lekarz od 1999 roku
 - ### specjalista psychiatra od 2007 roku

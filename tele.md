@@ -35,3 +35,5 @@ Wymaga jedynie wpisania adresu wysłanego przeze mnie w SMS oraz podania stosown
 **Wyjaśnienie**
 
 Wybór programu wynika z bezpieczeństwa danych pacjentów. Całość oprogramowania znajduje się na moim serwerze i nie jest obsługiwana przez podmioty trzecie (ochrona metadanych). Dodatkowo to oprogramowanie gwarantuje szyfrowanie koniec do końca (end-to-end encryption) co uniemożliwia podsłuchiwanie.
+
+---
