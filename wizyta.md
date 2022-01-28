@@ -1,12 +1,7 @@
 ---
-layout: post
+layout: default
 title: "Forma wizyty"
-date: 2014-06-12
-comments: false
-categories:
 ---
-Gabinet Bytom  -  Gabinet Czeladź  -  Wizyta domowa  -  Telewizyta
-
 
 
 ### Wizyta w gabinecie w Bytomiu  [ - mapa](https://www.openstreetmap.org/node/7660154838#map=16/50.3878/18.8818)
@@ -23,5 +18,6 @@ Gabinet Bytom  -  Gabinet Czeladź  -  Wizyta domowa  -  Telewizyta
 
 ### [Telewizyta - informacje](/tele)
 - w _wyjątkowych_ sytuacjach, pacjenci pozostający w kontakcie terapeutycznym mogą prosić o taką formę wizyty
+
 
 ---

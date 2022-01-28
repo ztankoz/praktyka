@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: default
 title: "Cennik"
-date: 2014-02-26 11:37:18 +0530
-comments: true
-categories: 
 ---
 Aktualizacja 1 listopad 2021
 

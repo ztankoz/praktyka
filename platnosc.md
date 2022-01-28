@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: default
 title: "Formy płatności"
-date: 2014-01-26 11:37:18 +0530
-comments: true
-categories: 
 ---
 Aktualizacja 1 styczeń 2022
 
