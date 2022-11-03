@@ -25,7 +25,7 @@ lub
 * gotówka
 * Bitcoin Lightning
 * blik
-* przelew dla pacjentów korzystających z telewizyty (w takiej sytuacji można płacić z dowolnego konta bankowego lub Urzędu Pocztowego (dane mogą być fikcyjne). Celem identyfikacji płatnika prosze podać w tytule pięć ostatnich cyfr numeru pesel
+* przelew dla pacjentów korzystających z telewizyty - w takiej sytuacji można płacić z dowolnego konta bankowego lub Urzędu Pocztowego (dane mogą być fikcyjne). Celem identyfikacji płatnika prosze podać w tytule pięć ostatnich cyfr numeru pesel
 
 ### Dane do przelewu
 **_Specjalistyczna Praktyka Psychiatryczna Krzysztof Stańkowski_**<br>
