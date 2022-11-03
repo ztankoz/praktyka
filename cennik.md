@@ -1,10 +1,7 @@
 ---
 layout: default
-title: "Cennik"
+title: "PŁATNOŚCI"
 ---
-Aktualizacja 1 listopad 2021
-
-> Ceny wizyt dla terminów ustalonych przed 1 listopada 2021 nie ulegają zmianie
 
 ### Cena wizyty w gabinecie
 - pierwszorazowa - 250zł
@@ -12,11 +9,11 @@ Aktualizacja 1 listopad 2021
 
 ### Cena wizyty domowej
 - pierwszorazowa - 350zł
-- nkolejna - 250zł
+- kolejna - 250zł
 
 ### Cena telewizyty
 - kolejna - 200zł
-> *nie oferuję telewizyty pacjentom na wizycie pierwszorazowej
+- Uwaga! Nie oferuję telewizyty pacjentom na wizycie pierwszorazowej
 
 ### Cena wizyty receptowej
 - od 50 do 100zł
@@ -24,8 +21,16 @@ Aktualizacja 1 listopad 2021
 lub
 - gdy konieczność przełożenia wizyty, mogłaby spowodować przerwanie leczenia farmakologicznego
 
+### Formy płatności
+* gotówka
+* Bitcoin Lightning
+* blik
+* przelew dla pacjentów korzystających z telewizyty (w takiej sytuacji można płacić z dowolnego konta bankowego lub Urzędu Pocztowego (dane mogą być fikcyjne). Celem identyfikacji płatnika prosze podać w tytule pięć ostatnich cyfr numeru pesel
 
-### Wyjaśnienie
-Od 1 lipca 2021, każde zdarzenie medyczne ( _wizyta, teleporada, wypisanie recepty_) jest obowiązkowo i automatycznie raportowane do centralnego systemu obsługiwanego przez organy administracji. Dotychczasowe, grzecznościowe wypisywanie recept, może byc uznane przez _urzędnika-śledczego-nadzorcę_ jako forma unikania opodatkowania. Wcześniejszy cennik przybrał mniej przyjazny charakter.
-
+### Dane do przelewu
+**_Specjalistyczna Praktyka Psychiatryczna Krzysztof Stańkowski_**<br>
+**_Numer konta:_ 58 1140 2004 0000 3602 5030 4324**<br> 
 ---
+
+>>Wyjaśnienie
+Od 1 lipca 2021, każde zdarzenie medyczne ( _wizyta, teleporada, wypisanie recepty_) jest obowiązkowo i automatycznie raportowane do centralnego systemu obsługiwanego przez organy administracji publicznej. Dotychczasowe, grzecznościowe wypisywanie recept, może byc uznane przez _urzędnika-śledczego-nadzorcę_ jako forma unikania opodatkowania. Wcześniejszy cennik przybrał mniej przyjazny charakter.
