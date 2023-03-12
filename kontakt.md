@@ -9,8 +9,7 @@ email: praktyka@gabinetpsychiatra.pl - [klucz pgp](https://gabinetpsychiatra.pl/
 
 nostr: praktyka@gabinetpsychiatra.pl
 
-> Przed wizytą konieczna jest rejestracja telefoniczna 
-> (poniedziałki, środy, czwartki od 19:00 do 20:00)
+> Przed wizytą konieczna jest rejestracja.)
 >
 > Można wysłać SMS lub EMAIL z prośba o kontakt.
 
@@ -21,7 +20,7 @@ nostr: praktyka@gabinetpsychiatra.pl
 
 1. ### Nowi pacjenci 
 W celu rejestracji proszę dzwonić we wskazanych godzinach; poniedziałki, środy, czwartki od 19:00 do 20:00 
-Kilka dni przed planowaną wizytą wysyłam przypomnienie w postaci wiadomości SMS na wskazany numer telefonu. 
+Dwa dni przed planowaną wizytą wysyłam przypomnienie w postaci wiadomości SMS na wskazany numer telefonu. 
 
 2. ### Moi pacjenci 
 Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i nie nadaje sie do przesyłania danych
