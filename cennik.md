@@ -33,4 +33,4 @@ lub
 ---
 
 >>Wyjaśnienie
-Od 1 lipca 2021, każde zdarzenie medyczne ( _wizyta, teleporada, wypisanie recepty_) jest obowiązkowo i automatycznie raportowane do centralnego systemu obsługiwanego przez organy administracji publicznej. Dotychczasowe, grzecznościowe wypisywanie recept, może być uznane przez _urzędnika-śledczego-nadzorcę_ jako forma unikania opodatkowania. Wcześniejszy cennik przybrał mniej przyjazny charakter.
+Od 1 lipca 2021, każde zdarzenie medyczne ( _wizyta, teleporada, wypisanie recepty_) jest obowiązkowo i automatycznie raportowane do centralnego systemu obsługiwanego przez organy administracji publicznej. Dotychczasowe, grzecznościowe wypisywanie recept, może być uznane przez _urzędnika-śledczego-nadzorcę_ jako forma unikania opodatkowania. Wcześniejszy cennik przybrał mniej przyjazny charakter. 
