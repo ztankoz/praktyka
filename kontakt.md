@@ -9,7 +9,7 @@ email: praktyka@gabinetpsychiatra.pl - [klucz pgp](https://gabinetpsychiatra.pl/
 
 nostr: praktyka@gabinetpsychiatra.pl - npub1t3vxh2kuf5c7hlyljd0ly4v6cnd2zaw62nww2wzjn2dpmadec4uqdkjmfk
 
-> Przed wizytą konieczna jest rejestracja.)
+> Przed wizytą konieczna jest rejestracja.
 >
 > Można wysłać SMS lub EMAIL z prośba o kontakt.
 
