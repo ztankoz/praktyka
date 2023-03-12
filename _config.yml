@@ -23,3 +23,4 @@ owner:
   github: https://github.com/ztankoz
   
 # Analytics and webmaster tools stuff goes here
+include: [".well-known"]
