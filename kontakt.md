@@ -7,6 +7,8 @@ telefon: +48 509122806
 
 email: praktyka@gabinetpsychiatra.pl - [klucz pgp](https://gabinetpsychiatra.pl/pgp)
 
+nostr: praktyka@gabinetpsychiatra.pl
+
 > Przed wizytą konieczna jest rejestracja telefoniczna 
 > (poniedziałki, środy, czwartki od 19:00 do 20:00)
 >
@@ -27,11 +29,7 @@ wrażliwych. Moi pacjenci wysyłając lub odbierając dane medyczne w formie ele
 (mój adres to praktyka@gabinetpsychiatra.pl) 
 
 3. ### Udostępnianie dokumentacji 
-Dokumentację medyczną (kartotekę, opinie, zaświadczenia) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. Do tygodnia czasu przesyłam link dokumentu zabezpieczony hasłem oraz link podpisu cyfrowego. Pobrane pliki dokumentu i podpisu można zapisać na nośniku cyfrowym lub/i wydrukować. Linki przestają być aktywne po miesiącu. 
-
-### Uwagi 
-Do czasu wprowadzenia standardu przekazywania dokumentacji medycznej w bezpieczny sposób, proponuję powyższą
-procedurę. Instytucje najczęściej akceptują tę formę dostępu do dokumentacji. W razie wątpliwości co do prawdziwości wydanego dokumentu należy przedstawić oba pliki (dokument oraz podpis cyfrowy) oraz wskazać moją stronę internetową jako źródło certyfikacji. Dział informatyczny instytucji powinien poradzic sobie z potwierdzeniem prawdziwości wydanych dokumentów,
+Dokumentację medyczną (kartotekę, opinie, zaświadczenia) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. W ciągu kilku dni przesyłam email zawierający dokumentację, która jest zabezpieczona hasłem.
 
 <div class="pagination">
   {% if site.owner.email %}
