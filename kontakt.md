@@ -27,7 +27,6 @@ Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i ni
 wrażliwych. Moi pacjenci wysyłając lub odbierając dane medyczne w formie elektronicznej (np. wyniki badań, informacje o samopoczuciu, dokumentację medyczną) mogą zainstalować na telefonie lub komputerze komunikator [delta.chat](https://delta.chat). Do konfiguracji należy użyć danych swojego konta pocztowego. Po wymianie pierwszej wiadomości, reszta komunikacji będzie szyfrowana automatycznie
 (mój adres to praktyka@gabinetpsychiatra.pl)
 <br>
-Polecam rozwijający się, otwarty, wolny i bezpieczny protokół [NOSTR](http://nostr.net)
 
 3. ### Udostępnianie dokumentacji 
 Dokumentację medyczną (kartotekę, opinie, zaświadczenia) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. W ciągu kilku dni przesyłam email zawierający dokumentację, która jest zabezpieczona hasłem.

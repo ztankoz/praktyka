@@ -2,14 +2,14 @@
 layout: default
 title: "PŁATNOŚCI"
 ---
-
+** od 1 lipca 2023 **
 ### Cena wizyty w gabinecie
-- pierwszorazowa - 250zł
+- pierwszorazowa - 300zł
 - kolejna - 200zł
 
 ### Cena wizyty domowej
-- pierwszorazowa - 350zł
-- kolejna - 250zł
+- pierwszorazowa - 400zł
+- kolejna - 300zł
 
 ### Cena telewizyty
 - kolejna - 200zł
