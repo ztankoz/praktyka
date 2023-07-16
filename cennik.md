@@ -2,7 +2,7 @@
 layout: default
 title: "PŁATNOŚCI"
 ---
-** od 1 lipca 2023 **
+
 ### Cena wizyty w gabinecie
 - pierwszorazowa - 300zł
 - kolejna - 200zł

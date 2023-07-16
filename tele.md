@@ -13,6 +13,7 @@ title: Forma telewizyty
 2. 🎥 __wideorozmowa__
 
 - wymaga posiadania konta [signal](https://signal.org) w telefonie komórkowym
+- lub zainstalowania komunikatora [SimpleX Chat](https://play.google.com/store/search?q=simplex&c=apps)
 - czas trwania to z reguły 30 minut
 
 ---

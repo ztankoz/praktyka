@@ -25,7 +25,7 @@ Dwa dni przed planowaną wizytą wysyłam przypomnienie w postaci wiadomości SM
 2. ### Moi pacjenci 
 Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i nie nadaje sie do przesyłania danych
 wrażliwych. Moi pacjenci wysyłając lub odbierając dane medyczne w formie elektronicznej (np. wyniki badań, informacje o samopoczuciu, dokumentację medyczną) mogą zainstalować na telefonie lub komputerze komunikator [delta.chat](https://delta.chat). Do konfiguracji należy użyć danych swojego konta pocztowego. Po wymianie pierwszej wiadomości, reszta komunikacji będzie szyfrowana automatycznie
-(mój adres to praktyka@gabinetpsychiatra.pl)
+(mój adres to praktyka@gabinetpsychiatra.pl). Inną możliwością jest zainstalowanie programu [SimpleX Chat](https://play.google.com/store/search?q=simplex&c=apps), który pozwala na przesyłanie danych bez pośrednika z pełnym szyfrowaniem.
 <br>
 
 3. ### Udostępnianie dokumentacji 
