@@ -25,8 +25,18 @@ Dwa dni przed planowaną wizytą wysyłam przypomnienie w postaci wiadomości SM
 2. ### Moi pacjenci 
 Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i nie nadaje sie do przesyłania danych
 wrażliwych. Moi pacjenci wysyłając lub odbierając dane medyczne w formie elektronicznej (np. wyniki badań, informacje o samopoczuciu, dokumentację medyczną) mogą zainstalować na telefonie lub komputerze komunikator [delta.chat](https://delta.chat). Do konfiguracji należy użyć danych swojego konta pocztowego. Po wymianie pierwszej wiadomości, reszta komunikacji będzie szyfrowana automatycznie
-(mój adres to praktyka@gabinetpsychiatra.pl). Inną możliwością jest zainstalowanie programu [SimpleX Chat](https://play.google.com/store/search?q=simplex&c=apps), który pozwala na przesyłanie danych bez pośrednika z pełnym szyfrowaniem.
+(mój adres to praktyka@gabinetpsychiatra.pl).
 <br>
+Inną możliwością jest zainstalowanie programu [SimpleX Chat](https://play.google.com/store/search?q=simplex&c=apps), który pozwala na przesyłanie danych bez pośrednika z pełnym szyfrowaniem.
+
+[Zainstaluj i połącz](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2F_sF8rKEZnbwDydrMuAc_x0Na87JRGX6J%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAdJXmCiqCGrObmsC_9JShpzzRCpmw2QVkYAAAWhRyhzM%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion)
+
+---
+
+Mając zainstalowany program SimpleX Chat można zeskanować link zaproszenia
+<br>
+
+![link](https://drop.2to2.pm/DOxBjAHw/simplex.jpeg)
 
 3. ### Udostępnianie dokumentacji 
 Dokumentację medyczną (kartotekę, opinie, zaświadczenia) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. W ciągu kilku dni przesyłam email zawierający dokumentację, która jest zabezpieczona hasłem.
