@@ -33,10 +33,10 @@ Inną możliwością jest zainstalowanie programu [SimpleX Chat](https://play.go
 
 ---
 
-Mając zainstalowany program SimpleX Chat można zeskanować link zaproszenia
+Mając wcześniej zainstalowany program SimpleX Chat można zeskanować link zaproszenia
 <br>
 
-![link](https://drop.2to2.pm/DOxBjAHw/simplex.jpeg)
+<img src="https://drop.2to2.pm/DOxBjAHw/simplex.jpeg" width="700" height="700">
 
 3. ### Udostępnianie dokumentacji 
 Dokumentację medyczną (kartotekę, opinie, zaświadczenia) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. W ciągu kilku dni przesyłam email zawierający dokumentację, która jest zabezpieczona hasłem.
