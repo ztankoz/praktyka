@@ -5,7 +5,7 @@ title: Kontakt
 
 ### telefon: +48 509122806
 
-### email: praktyka@gabinetpsychiatra.pl - [klucz pgp](https://gabinetpsychiatra.pl/pgp)
+### email: praktyka@gabinetpsychiatra.pl 
 
 ---
 
