@@ -32,5 +32,6 @@ lub
 **_Numer konta:_ 58 1140 2004 0000 3602 5030 4324**<br> 
 ---
 
->>Wyjaśnienie
+>Wyjaśnienie
+
 Od 1 lipca 2021, każde zdarzenie medyczne ( _wizyta, teleporada, wypisanie recepty_) jest obowiązkowo i automatycznie raportowane do centralnego systemu obsługiwanego przez organy administracji publicznej. Dotychczasowe, grzecznościowe wypisywanie recept, może być uznane przez _urzędnika-śledczego-nadzorcę_ jako forma unikania opodatkowania. Wcześniejszy cennik przybrał mniej przyjazny charakter. 
