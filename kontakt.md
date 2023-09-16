@@ -17,7 +17,7 @@ Dwa dni przed planowaną wizytą wysyłam przypomnienie w postaci wiadomości SM
 
 2. ### Moi pacjenci 
 
-__Proszę nie używać wiadomości SMS do przekazywania danych medycznych.__ Na zadane ta droga pytania odpowiem przesłaniem linku do zaszyfrowanej strony. Po jednorazowym wyświetleniu, wiadomość ulega skasowaniu. W celu bezpiecznej komunikacji propozuje jedno z dwóch rozwiązań.
+__Proszę nie używać wiadomości SMS do przekazywania danych medycznych.__  W celu bezpiecznej komunikacji propozuje jedno z poniższych rozwiązań;
 
 __pierwsze__ Zainstalowanie na telefonie lub komputerze komunikatora [delta.chat](https://delta.chat). Do konfiguracji należy użyć danych swojego konta pocztowego. Po wymianie pierwszej wiadomości, reszta komunikacji będzie szyfrowana automatycznie
 (mój adres to praktyka@gabinetpsychiatra.pl).
@@ -38,7 +38,8 @@ Dokumentację medyczną (kartotekę, opinie, zaświadczenia) udostępniam w form
 
 Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i nie nadaje sie do przesyłania danych
 wrażliwych. Wszelkie dane medyczna muszą byc szyfrowane.
-SMSy nie zapewniaja ochrony informacji i moga być przechowywane prze operatora telekomunikacyjnego przez dowolny czas. Dlatego tym kanałem komunikacyjnym jedynie potwierdzam, odwołuję, zmieniam terminy wizyt.
+
+SMSy nie zapewniaja ochrony informacji i moga być przechowywane przez operatora telekomunikacyjnego przez dowolny czas. Dlatego tym kanałem komunikacyjnym jedynie potwierdzam, odwołuję, zmieniam terminy wizyt.
 
 
 <div class="pagination">
