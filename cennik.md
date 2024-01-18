@@ -25,7 +25,7 @@ lub
 * gotówka
 * Bitcoin Lightning
 * blik
-* przelew dla pacjentów korzystających z telewizyty lub wizyty receptowej - w takiej sytuacji można płacić z dowolnego konta bankowego lub w Urzędzie Pocztowym. W drugim przypadku dane mogą być fikcyjne a w celu identyfikacji płatnika można podać w tytule pięć ostatnich cyfr numeru pesel.
+* przelew dla pacjentów korzystających z telewizyty lub wizyty receptowej
 
 ### Dane do przelewu
 **_Specjalistyczna Praktyka Psychiatryczna Krzysztof Stańkowski_**<br>
@@ -35,8 +35,8 @@ lub
 
 __Wyjaśnienie__
 
->Od 1 lipca 2021, każde zdarzenie medyczne ( _wizyta, teleporada, wypisanie recepty_) jest obowiązkowo i automatycznie raportowane do centralnego systemu obsługiwanego przez organy administracji publicznej. Dotychczasowe, grzecznościowe wypisywanie recept, może być uznane przez _urzędnika-śledczego-nadzorcę_ jako forma unikania opodatkowania. Wcześniejszy cennik przybrał mniej przyjazny charakter. 
+>Od 1 lipca 2021, każde zdarzenie medyczne ( _wizyta, teleporada, wypisanie zaświadczenia, wypisanie recepty_) jest obowiązkowo i automatycznie raportowane do centralnego systemu obsługiwanego przez organy administracji publicznej. Dotychczasowe, grzecznościowe wypisywanie recept, może być uznane przez _urzędnika-śledczego-nadzorcę_ jako forma unikania opodatkowania. Wcześniejszy cennik przybrał mniej przyjazny charakter. 
 
 __Uwaga__
 
->Przelewy w konta oraz płatności BLIK pozostawiają trwały ślad transakcji, który w przyszłości może posłużyć rządzącym, korporacjom, firmom ubezpieczeniowym do celów innych niż obecne.
+>Przelewy w konta oraz płatności BLIK pozostawiają trwały ślad transakcji, który w przyszłości może posłużyć rządzącym, korporacjom, firmom ubezpieczeniowym do celów innych niż obecne. Uwzględniając taką sytuację można płacić w Urzędzie Pocztowym - dane mogą być fikcyjne a w celu identyfikacji płatnika można podać w tytule pięć ostatnich cyfr numeru pesel pacjenta.

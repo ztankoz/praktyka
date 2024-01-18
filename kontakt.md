@@ -12,8 +12,8 @@ title: Kontakt
 ## Zasady kontaktu
 
 1. ### Nowi pacjenci 
-Przed wizytą konieczna jest rejestracja. W tym celu proszę dzwonić we wskazanych godzinach; poniedziałki, środy, czwartki od 19:00 do 20:00. Można też wysłać SMS lub EMAIL z prośba o kontakt.
-Dwa dni przed planowaną wizytą wysyłam przypomnienie w postaci wiadomości SMS na wskazany numer telefonu. 
+Przed wizytą konieczna jest rejestracja. W tym celu proszę dzwonić we wskazanych godzinach; poniedziałki, wtorki, środy, czwartki od 19:00 do 20:00. Można też wysłać SMS lub EMAIL z prośba o kontakt.
+Dwa dni przed planowaną wizytą wysyłam przypomnienie w postaci wiadomości SMS na wskazany numer telefonu. W przypadku niemożności dotarcia na wizytę proszę o informację.
 
 2. ### Moi pacjenci 
 
@@ -27,7 +27,7 @@ __drugie__ Zainstalowanie w telefonie programu [SimpleX Chat](https://play.googl
 Mając wcześniej zainstalowany program SimpleX Chat można zeskanować link zaproszenia
 <br>
 
-<img src="https://drop.2to2.pm/DOxBjAHw/simplex.jpeg" width="600" height="600">
+<img src="https://drop.2to2.pm/DOxBjAHw/simplex.jpeg" width="500" height="500">
 
 3. ### Udostępnianie dokumentacji 
 Dokumentację medyczną (kartotekę, opinie, zaświadczenia) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. W ciągu kilku dni przesyłam email zawierający dokumentację, która jest zabezpieczona hasłem.
